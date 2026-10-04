@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.db
+
+# Node
+node_modules/
+dist/
+
+# Environment files
+.env
+.env.local
+
+# OS/editor cruft
+.DS_Store
+.vscode/
